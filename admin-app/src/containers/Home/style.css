@@ -1,0 +1,9 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background: -webkit-linear-gradient(bottom, #bbafaf, #9e5959);
+  padding-top: 60px;
+  box-shadow: inset 0 0 10 grey;
+}
